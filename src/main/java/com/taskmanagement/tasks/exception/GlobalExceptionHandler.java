@@ -1,4 +1,4 @@
-package com.taskmanagement.tasks.controller;
+package com.taskmanagement.tasks.exception;
 
 import com.taskmanagement.tasks.exception.TaskNotFoundException;
 import org.springframework.http.HttpStatus;
